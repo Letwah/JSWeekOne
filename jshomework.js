@@ -4,7 +4,7 @@ THIS IS COLETTE'S 1ST JS HOMEWORK  - 22nd March 2023:)
 
 //Q1
 
-var favColours = ["Blue", "Green", "Yellow"]; // should be array but is object an array is technically a type of object tho....!?
+var favColours = ["Blue", "Green", "orange"]; // should be array but is object an array is technically a type of object tho....!?
 var myName = "Colette"; //string
 var myAge = "40"; //number
 var isIrish = true; //boolean

@@ -1,0 +1,2 @@
+# JSWeekOne
+basic JavaScript Stuff

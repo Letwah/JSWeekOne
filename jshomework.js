@@ -142,11 +142,15 @@ var myObject = {
     },
   },
 };
+
+myObject["newKey"] = "distance";
 //Q6 - Add an item to the above object (using . syntax)
 console.log(myObject.location.directions.distance);
 
 //Q7 - Add an item to the above object dynamically (using the [] syntax)
 console.log(myObject.location.directions["distance"]);
+
+console.log((myObject["newKey"] = "distance")); ////?????/
 
 //Q8 - Loop over the object using for in???? ----********DONT UNDERSTAND this ASK FOR HELPPPPPP******
 
